@@ -1,0 +1,34 @@
+{
+  "aaa": {
+    "color": "#5865F2",
+    "title": "",
+    "description": "",
+    "author": {
+      "name": "",
+      "iconURL": ""
+    },
+    "footer": {
+      "text": "",
+      "iconURL": ""
+    },
+    "thumbnail": "",
+    "image": "",
+    "timestamp": false
+  },
+  "test": {
+    "title": "Bienvenida",
+    "description": "asssdawda\nda\nda\nd\nad\na\nda",
+    "color": "#5865F2",
+    "author": {
+      "name": "{user_tag}",
+      "iconURL": "{user_avatar}"
+    },
+    "footer": {
+      "text": "Bienveniwis ahora somos {server_membercount}",
+      "iconURL": ""
+    },
+    "thumbnail": "{server_icon}",
+    "image": "https://media.discordapp.net/attachments/1455715212714967173/1455782981753901056/image.png?ex=6955fb0d&is=6954a98d&hm=a4a8d1811a850bfaf6e9303f6d42e390b9e5ad4648903628dc5046039fbd9af1&=&format=webp&quality=lossless&width=1141&height=745",
+    "timestamp": true
+  }
+}

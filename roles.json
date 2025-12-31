@@ -1,0 +1,26 @@
+{
+  "menuTitle": "✨ Elige tu rol",
+  "menuDescription": "Selecciona para ponerte o quitarte roles.",
+  "placeholder": "Selecciona roles...",
+  "maxValues": 3,
+  "roles": [
+    {
+      "label": "Gamer",
+      "description": "Acceso a canales gamer",
+      "emoji": "🎮",
+      "roleId": "123456789012345678"
+    },
+    {
+      "label": "Minecraft",
+      "description": "Ping de servers y updates",
+      "emoji": "⛏️",
+      "roleId": "123456789012345679"
+    },
+    {
+      "label": "Valorant",
+      "description": "Ping de rankeds",
+      "emoji": "🔫",
+      "roleId": "123456789012345680"
+    }
+  ]
+}

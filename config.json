@@ -1,0 +1,10 @@
+{
+  "welcome": {
+    "channelId": "1455715212714967178",
+    "embedName": "test"
+  },
+  "leave": {
+    "channelId": "1455715212714967179",
+    "embedName": "test"
+  }
+}
